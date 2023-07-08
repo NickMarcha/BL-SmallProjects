@@ -1,0 +1,411 @@
+{"list":[
+  {
+    "location": "Oil Refinery",
+    "recipes": [
+      {
+        "item": "Gun Oil",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Duct Tape",
+            "amount": 3
+          },
+          {
+            "item": "Refined Oil",
+            "amount": 1
+          },
+          {
+            "item": "Glue",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "item": "Refined Oil",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Oil",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "item": "Jerry Can",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Refined Oil",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Metal Refinement",
+    "recipes": [
+      {
+        "item": "Charcoal",
+        "amount": 10,
+        "ingredients": [
+          {
+            "item": "Wood Planks",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "item": "Aluminium",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Raw Aluminium",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "item": "Gold Ingot",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Gold Ore",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "item": "Platinum",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Raw Platinum",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "item": "Steel",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Raw Steel",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "item": "Titanium",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Raw Titanium",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "item": "Copper",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Double-A Battery",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "item": "Copper",
+        "amount": 5,
+        "ingredients": [
+          {
+            "item": "Copper Coil",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "item": "Glass Bottle",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Glass Shards",
+            "amount": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Illegal Firearms",
+    "recipes": [
+      {
+        "item": "Firearm Body",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Steel",
+            "amount": 30
+          },
+          {
+            "item": "Copper",
+            "amount": 15
+          },
+          {
+            "item": "Titanium",
+            "amount": 6
+          }
+        ]
+      },
+      {
+        "item": "Timed Explosive",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Dynamite",
+            "amount": 8
+          },
+          {
+            "item": "Electronic Gadget",
+            "amount": 1
+          },
+          {
+            "item": "Circuit Board",
+            "amount": 1
+          },
+          {
+            "item": "Duct Tape",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Armour Crafting",
+    "recipes": [
+      {
+        "item": "Heavy Armor Kit",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Steel",
+            "amount": 3
+          },
+          {
+            "item": "Generic Fabric",
+            "amount": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Illegal Electronics Crafting",
+    "recipes": [
+      {
+        "item": "Hacking Phone",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Aluminium",
+            "amount": 4
+          },
+          {
+            "item": "Electronic Gadget",
+            "amount": 2
+          },
+          {
+            "item": "Non-Activated Phone",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "item": "Hacking Laptop",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Circuit Board",
+            "amount": 1
+          },
+          {
+            "item": "Gold Ingot",
+            "amount": 1
+          },
+          {
+            "item": "Hacking Phone",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Shady Tool Crafting 1",
+    "recipes": [
+      {
+        "item": "Wire Cutters",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Steel",
+            "amount": 2
+          },
+          {
+            "item": "Plastic",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Shady Tool Crafting 2",
+    "recipes": [
+      {
+        "item": "Crowbar",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Steel",
+            "amount": 7
+          }
+        ]
+      },
+      {
+        "item": "Drill",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Titanium",
+            "amount": 2
+          },
+          {
+            "item": "Steel",
+            "amount": 5
+          },
+          {
+            "item": "Aluminium",
+            "amount": 14
+          },
+          {
+            "item": "Electronic Gadget",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Darnell Bros Texiles",
+    "recipes": [
+      {
+        "item": "Generic Fabric",
+        "amount": 4,
+        "ingredients": [
+          {
+            "item": "Jute Fibers",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "item": "Hemp Cloth",
+        "amount": 4,
+        "ingredients": [
+          {
+            "item": "Kifflom Kush Buds",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "item": "Hemp Cloth",
+        "amount": 4,
+        "ingredients": [
+          {
+            "item": "Serpickle Berry Buds",
+            "amount": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Painters Gear",
+    "recipes": [
+      {
+        "item": "Respirator",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Plastic",
+            "amount": 10
+          },
+          {
+            "item": "Generic Fabric",
+            "amount": 5
+          },
+          {
+            "item": "Charcoal",
+            "amount": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Sinister Sons",
+    "recipes": [
+      {
+        "item": "Compact Rifle",
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": "Spring",
+            "amount": 3
+          },
+          {
+            "item": "Steel Pipe",
+            "amount": 3
+          },
+          {
+            "item": "Electric Torch",
+            "amount": 1
+          },
+          {
+            "item": "Gun Oil",
+            "amount": 2
+          },
+          {
+            "item": "FirearmBody",
+            "amount": 1
+          },
+          {
+            "item": "Metal Gear",
+            "amount": 6
+          }
+        ]
+      },{
+        "item": "Compact Rifle Bullet",
+        "amount": 25,
+        "ingredients": [
+          {
+            "item": "Nitrate",
+            "amount": 10
+          },
+          {
+            "item": "Charcoal",
+            "amount": 25
+          },
+          {
+            "item": "Copper",
+            "amount": 5
+          }
+        ]
+      }
+    ]
+  }
+]}

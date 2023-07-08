@@ -1,0 +1,11 @@
+{
+  "name": "nickmarcha/blmap",
+  "timeout": 10000,
+  "connector": false,
+  "env": [
+    {
+      "name": "DBSPREADSHEET",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bl-ledger",
+  "author": "Jacob Lee",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "node-fetch": "^2.1.0",
+    "string-similarity": "^4.0.4",
+    "@google-cloud/vision": "^2.4.1"
+  }
+}

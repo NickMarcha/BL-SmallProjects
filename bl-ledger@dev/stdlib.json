@@ -1,0 +1,41 @@
+{
+  "name": "nickmarcha/bl-ledger",
+  "timeout": 30000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/bot_mention.js": {
+      "name": "discord.bot_mention"
+    },
+    "functions/events/autocode/self/deployed.js": {
+      "name": "autocode.self.deployed"
+    },
+    "functions/events/discord/undo-entry-command.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "undo-entry"
+      }
+    },
+    "functions/events/discord/create-entry-command.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "entry"
+      }
+    },
+    "functions/events/scheduler/hourly.js": {
+      "name": "scheduler.hourly",
+      "subtype": {
+        "offset": "0 minutes"
+      }
+    }
+  },
+  "env": [
+    {
+      "name": "DBSPREADSHEET",
+      "description": "Database Spreadsheet contains Guild info"
+    },
+    {
+      "name": "BOT_ID",
+      "description": "Discord Bot ID"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "nickmarcha/bl-auction",
+  "timeout": 10000,
+  "connector": false,
+  "env": [
+    {
+      "name": "DBSPREADSHEET",
+      "description": ""
+    },
+    {
+      "name": "FLICKR_CONSUMER_KEY",
+      "description": ""
+    },
+    {
+      "name": "FLICKR_CONSUMER_SECRET",
+      "description": ""
+    },
+    {
+      "name": "FLICKR_OAUTH_TOKEN",
+      "description": ""
+    },
+    {
+      "name": "FLICKR_OAUTH_TOKEN_SECRET",
+      "description": ""
+    }
+  ]
+}
